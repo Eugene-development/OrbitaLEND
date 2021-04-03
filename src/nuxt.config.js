@@ -1,6 +1,12 @@
 
 export default {
   mode: 'universal',
+
+  server: {
+    port: 4000,
+    host: '0.0.0.0'
+  },
+
   /*
   ** Headers of the page
   */
@@ -33,6 +39,7 @@ export default {
   ** Nuxt.js dev-modules
   */
   buildModules: [
+    '@nuxtjs/tailwindcss'
   ],
   /*
   ** Nuxt.js modules
