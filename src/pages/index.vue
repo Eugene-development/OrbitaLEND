@@ -174,7 +174,7 @@
 <!--                    <img alt="logo" class="h-16" src="https://орбита-строй.рф/storage/img/logo.png">-->
                   </div>
                   <blockquote class="mt-8">
-                    <div class="relative text-lg font-medium text-blueGray-200 md:flex-grow">
+                    <div class="relative text-lg font-medium text-blueGray-100 md:flex-grow">
                       <svg
                         aria-hidden="true"
                         class="absolute top-0 left-0 transform -translate-x-3 -translate-y-2 h-8 w-8 text-indigo-700"
@@ -191,7 +191,7 @@
                     </div>
 
                     <footer class="mt-4">
-                      <p class="text-base font-semibold text-blueGray-200">Кожевникова Юля, Менеджер по продажам.</p>
+                      <p class="text-base font-semibold text-blueGray-100">Кожевникова Юля, Менеджер по продажам.</p>
                     </footer>
                   </blockquote>
                 </div>
