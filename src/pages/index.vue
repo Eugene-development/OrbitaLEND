@@ -163,7 +163,7 @@
             </div>
             <div class="relative mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:px-0 lg:max-w-none lg:py-20">
               <!-- Testimonial card-->
-              <div class="relative pt-64 pb-10 rounded-2xl shadow-xl overflow-hidden ring-4 ring-rose-700 ring-offset-4">
+              <div class="relative pt-64 pb-10 rounded-2xl shadow-xl overflow-hidden ring-4 ring-rose-500 ring-offset-4">
                 <img
                   alt=""
                   class="absolute inset-0 h-full w-full object-cover" src="/img/1.jpg">
@@ -171,7 +171,7 @@
                 <div class="absolute inset-0 bg-gradient-to-t from-indigo-900 to-indigo-300 opacity-90"></div>
                 <div class="relative px-8">
                   <div class="opacity-50">
-<!--                    <img alt="logo" class="h-16" src="https://орбита-строй.рф/storage/img/logo.png">-->
+                    <img alt="logo" class="h-16" src="https://орбита-строй.рф/storage/img/logo.png">
                   </div>
                   <blockquote class="mt-8">
                     <div class="relative text-lg font-medium text-blueGray-100 md:flex-grow">
