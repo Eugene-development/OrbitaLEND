@@ -666,7 +666,29 @@ import Logo from '~/components/Logo.vue'
 export default {
   components: {
     Logo
+  },
+  data() {
+    return {
+      title: 'Поликарбонат || База стройматериалов "Орбита-строй',
+      // breadcrumbs: 'test'
+    }
+  },
+  head()
+  {
+    return {
+      title: this.title,
+      // breadcrumbs: this.breadcrumbs,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Продажа поликарбоната Polyplast'
+        }
+      ]
+
+    }
   }
+
 }
 </script>
 
